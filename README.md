@@ -1,5 +1,5 @@
 # Projeto - Aplicação de Inteligência Artificial em Problema Real
-## Universidade Presbiteriana Mackenzie - Inteligência Artificial – 7ºN CC
+## Universidade Presbiteriana Mackenzie - Inteligência Artificial
 - Pedro Catarino - 10395215
 
 ---
