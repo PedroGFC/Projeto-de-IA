@@ -12,3 +12,12 @@
 
 • O código Python (notebooks) da análise exploratória;  
 > analise_exploratoria.ipynb
+---
+## Segundo Bimestre (Desenvolvimento, Resultados e Relatório Completo)
+• Relatório do Projeto (2º Bimestre);  
+> Relatório Final.pdf
+
+• O código Python (notebooks) dos modelos (Random Forest e Gradient Boosting);  
+> randomForest.ipynb<br>
+> gradientBoosting.ipynb<br><br>
+Os codígos estão no arquivo do 2ºbimestre.
